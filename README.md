@@ -114,7 +114,3 @@ own scoped styles as needed.
   auto-scan endpoint
 - Vanilla JavaScript (ES modules) — no framework, no bundler
 - `localStorage` — per-tool client-side persistence
-
-## License
-
-Add a license of your choice here.
